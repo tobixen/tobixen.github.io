@@ -6,7 +6,7 @@
 name: Tobias Brox
 
 # Short bio or description (displayed in the header)
-description: Geek and sailor
+description: Father, geek and sailor
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/1536710
@@ -23,11 +23,11 @@ footer-links:
   flickr:
   github: tobixen
   instagram:
-  linkedin:
+  linkedin: tobias-brox-b51183
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
-  stackoverflow: tobixen
+  stackoverflow: 1452887/tobixen
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
