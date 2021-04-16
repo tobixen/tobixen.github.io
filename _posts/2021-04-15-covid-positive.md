@@ -11,7 +11,7 @@ The week after I travelled to Norway with my family - it's difficult due to canc
 
 I did manage to catch something else, though - the common cold virus.  My daughter brought it from school, my youngest son got it from her (and had a fever and running nose at that day when we were passing three country borders and taking two airplanes ... we were lucky that the body temperature wasn't checked anywhere), and I got it from him.  I hate going around caughing and having a running nose - but it's even worse during a pandemic.
 
-We had some social contact in the easter holidays.  By the end of the easter holidays I drove my family to the airport using a self-service rental car.  I forgot to disinfect the steering wheel, and without thinking I was scratching my nose while driving.  I cannot be completely sure that's how it happened, but this seems to be the most likely way I ended up catching the corona virus. One week later (2021-04-11), just as I had completely recovered from my round of the common cold, I woke up ill again.  I did another covid test, it was positive.
+We had some social contact during the easter holidays.  By the end of the easter holidays I drove my family to the airport using a self-service rental car.  I forgot to disinfect the steering wheel, and without thinking I was scratching my nose while driving.  I cannot be completely sure that's how it happened, but this seems to be the most likely way I ended up catching the corona virus. One week later (2021-04-11), just as I had completely recovered from my round of the common cold, I woke up ill again.  I did another covid test, it was positive.
 
 ![The kind of car I was renting](https://images.vy.no/s64l2vmdl8/Din%20Bybil%20til%20marka.jpg)
 
