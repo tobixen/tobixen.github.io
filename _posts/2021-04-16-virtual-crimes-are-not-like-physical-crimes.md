@@ -7,11 +7,11 @@ There was a [Norwegian article today on computer security](https://e24.no/boers-
 
 The title says that cryptolocker viruses are the worst, and there is a claim in the article that given enough resources on the attacker side, it's possible to break into any computer system.  Both claims are wrong - I would even call it *dangerous* thinking.
 
-Related to this, a month ago there was an attack on the Parliament, the attackers could take out emails and other data from the Exchange servers used by all the parliament members.  The party responsible for the security claimed it was "impossible" to protect against the attack.  Now I believe that's also wrong - even *dangerous* thinking.
+A month ago there was an attack on the Parliament, the attackers could take out emails and other data from the Exchange servers used by all the parliament members.  The party responsible for the security claimed it was "impossible" to protect against the attack.  Now I believe that's also wrong - even *dangerous* thinking.
 
 A physical door with a lock can never be 100% secure, an attacker with enough tools and time will always manage to break into a building.  I think many people consider IT systems to be something of the same, but it isn't.  An IT-system is either secure or vulnerable, it's actually quite binary.  If the IT-system is secure, then it's impossible to break in.  If the IT-system is vulnerable and connected to the internet, then it's almost a certainity that someone will break in, sooner or later - and most likely it will be impossible to identify the attacker or bring him to court.
 
-That's the theory - the real world is of course a bit more complex. Vulnerabilities may lurk around for years without being known, and it's practically impossible to prove that a complex computer system is secure.  Users, developers and system administrators may be tricked (or even paid) into giving access to the system.  If tricking or paying doesn't work, there is always the "5 USD wrench attack" - but then again, that's a physical crime ...
+That's the theory - the real world is of course a bit more complex. Vulnerabilities may lurk around for years without being known, and it's impossible to prove that a complex computer system is secure.  Users, developers and system administrators may be tricked (or even paid) into giving access to the system.  If tricking or paying doesn't work, there is always the "5 USD wrench attack" - but then again, that's a physical crime.
 
 ![5 USD wrench attack](https://imgs.xkcd.com/comics/security.png)
 
