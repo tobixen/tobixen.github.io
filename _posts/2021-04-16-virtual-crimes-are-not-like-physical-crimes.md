@@ -9,7 +9,7 @@ The title says that cryptolocker viruses are the worst, and there is a claim in 
 
 Related to this, a month ago there was an attack on the Parliament, the attackers could take out emails and other data from the Exchange servers used by all the parliament members.  The party responsible for the security claimed it was "impossible" to protect against the attack.  Now I believe that's also wrong - even *dangerous* thinking.
 
-(Of course, there is always the "5 USD wrench attack" - but then again, that's in the realm of physical crimes, not a virtual crimes).
+(Of course, there is always the "5 USD wrench attack" - but then again, that's in physical realm)
 
 ![5 USD wrench attack](https://imgs.xkcd.com/comics/security.png)
 
