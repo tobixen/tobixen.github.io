@@ -7,7 +7,7 @@ The probability that I would catch covid during March 2021 was much higher than 
 
 ![A potential mass spreader event](https://ipfs.io/ipfs/QmRB1xfooaLkjiAEs2LEw6b1BEtwEhTQVC9ZEe22YtcrGH)
 
-The week after I travelled to Norway with my family - it's difficult due to cancelled flights.  St.Petersburg - Ivangorod - Narva - Tallinn - Warzawa - Oslo, nobody wearing face masks on the first bus journey, the taxi driver whom took us to Tallinn airport also didn't wear a mask.  And still - no corona!  I tested negative over and over and over again!
+The week after I travelled to Norway with my family, an awkward journey - St.Petersburg - Ivangorod - Narva - Tallinn - Warzawa - Oslo, nobody wearing face masks on the first bus journey, the taxi driver whom took us to Tallinn airport also didn't wear a mask.  And still - no corona!  I tested negative over and over and over again!
 
 I did manage to catch something else, though - the common cold virus.  My daughter brought it from school, my youngest son got it from her (and had a fever and running nose at that day when we were passing three country borders and taking two airplanes ... we were lucky that the body temperature wasn't checked anywhere), and I got it from him.  I hate going around caughing and having a running nose - but it's even worse during a pandemic.
 
