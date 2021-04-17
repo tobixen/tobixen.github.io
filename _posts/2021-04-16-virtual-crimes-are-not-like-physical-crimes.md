@@ -19,7 +19,7 @@ That's the theory - the real world is of course a bit more complex.  Vulnerabili
 
 The Norwegian mentality is that if a crime happens, the guilt is always on the criminal and never on the victim (this is particularly important in the context of rape victims), and I was castigated in the comments section of the said article for hinting that things may be a bit different for virtual crimes.  One of the analogies given was blaming a burglary victim for not being at home and protecting the house.  Bad analogy, blaming the victim for not locking the door is more like it.  The insurance company will rightly blame the victim if the door wasn't locked.  With an IT-system, if the door is properly locked, the burglary *can not possibly* happen.  With an IT-system, if the door is open an attack is bound to happen sooner or later.
 
-![](https://ipfs.io/ipfs/QmZARWFJYQvqpBpY5vN9GVsXW94oiRQ1gXXZjphek8MMnM)
+![the bad guy is coming for you](https://ipfs.io/ipfs/QmZARWFJYQvqpBpY5vN9GVsXW94oiRQ1gXXZjphek8MMnM)
 
 If there is an outage due to a crypto locker situation, the typical Norwegian reaction would be to be upset with the attacker.  Typical mentality is to never pay up for getting access to the files again (even if the alternative is weeks or months of outage - [Norwegian article](https://www.nrk.no/innlandet/kan-ta-et-halvt-ar-for-ostre-toten-a-rette-opp-dataangrep-1.15364106)), as it will only fund more criminality.  That was my gut reaction also first time I learned about the concept - but giving it a second thought, I think it's misguided.
 
