@@ -15,7 +15,7 @@ Admittedly, in practice it may not be that binary.  A DDoS attack may take down 
 
 ![5 USD wrench attack](https://imgs.xkcd.com/comics/security.png)
 
-Despite all that, I still strongly believe that if a computer system is broken into, it's something wrong with said computer system, it's important to learn a lesson from it and ensure it won't happen again.
+Despite all that, I still strongly believe that if a computer system is broken into, it's something *wrong* with said computer system, it's important to learn a lesson from it and ensure it won't happen again.
 
 The Norwegian mentality is that if a crime happens, the guilt is always on the criminal and never on the victim (this is particularly important in the context of rape victims) - and hence I was castigated in the comments section of the said article for "blaming the victim".  One of the analogies given was blaming a burglary victim for not being at home and protecting the house.  Bad analogy, blaming the victim for not locking the door is more like it.  Burglary is still a criminal offence, but at least the insurance company may end up blaming the victim if the door wasn't locked.
 
