@@ -28,4 +28,6 @@ In addition they had also put plenty of oil around the wheels and on the chain -
 
 Later I went back to Jula to buy a new bike lock.  I was considering to lock the bike to the same lamp post again ... but, maybe not such a good idea :-)
 
+Update: I've always meant that if one is a victim of a crime, one should have a low barrier for reporting it to the police - it may be good to have it documented, it may be good for general statistics on crime, and it may be good for the police to have information in the archive (for instance if they get more bike theft reports connected to the same address, it may be a good idea to investigate). Apparently the police seems to be of another opinion - they insisted my police report should go directly into the thrash can since the bike was found and returned.
+
 (This was also posted at [Hive](https://hive.blog/biking/@tobixen/my-bike-got-stolen-and-found-again))
