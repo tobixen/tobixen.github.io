@@ -30,3 +30,13 @@ Det siste tenker jeg også er en ganske legitim bekymring.  Formueskatten er pr 
 Der er pr i dag mulig å betale frivillig skatt, men det er ikke anonymt.  Man må ta kontakt med skattemyndighetene for å få opplyst kontonummer, og bankbetalinger er av natur ikke-anonyme.  Videre, tanken med en anonym skatteinnbetaling er at man har en digital kvittering på at skatten er betalt, som man kan vise frem dersom skattemyndighetene på et eller annet tidspunkt skulle få kjennskap til beholdningen og skulle finne på å kontrollere - men en frivillig skatteinnbetaling vil være en ren ekstraskatt og kan (rent juridisk, slik jeg forstår det) på ingen måte komme tiltalte til gode i en fremtidig kontrollsituasjon.
 
 Det bør finnes muligheter for å åpne opp for innbetaling av skatt i bitcoins - eksempelvis dersom en veksler (f.eks. Sturle med tjenesten bitmynt.no) samarbeidet med skattemyndighetene om dette, men det kreves sikkert lovendringer om det skal være mulig å betale skatt gjennom en bitcoinveskler med konsesjon uten å identifisere seg ovenfor veksleren, samt for at å kunne innrømme muligheten for at en slik frivillig skatteinnbetaling skal kunne regnes i skattebetalerens favør hvisnår skatteetaten på et fremtidig tidspunkt skulle ende opp med et skattekrav mot skattebetaleren.
+
+## Formål og effekter
+
+Hovedformålet er at folk som ellers ville unndratt seg beskatning på en skjult formue betaler inn skatt.  Dette vil utvilsomt være et samfunnsgode (såfremt man ikke befinner seg så langt ut på alle politiske skalaer at man anser at samfunnet ville vært bedre uten noen offentlige instanser).
+
+Subsidiært kan det tenkes at et slikt tilbud ville få enkelte som ellers ville ha fyllt ut selvangivelsen ærlig og redelig til å velge å betale anonym skatt.  Innebærer dette et potensielt problem?  Jeg vet ikke, jeg har litt problemer med å se at det innebærer noen vesentlig ulempe.
+
+Hvor stor ville effekten være?  Vil den være signifikant?  Det aner jeg ingenting om - men jeg vet at det finnes folk der ute som ville benyttet seg av et slikt tilbud.
+
+Det er allerede et stort press på 
