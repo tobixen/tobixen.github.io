@@ -39,4 +39,4 @@ Subsidiært kan det tenkes at et slikt tilbud ville få enkelte som ellers ville
 
 Hvor stor ville effekten være?  Vil den være signifikant?  Det aner jeg ingenting om - men jeg vet at det finnes folk der ute som ville benyttet seg av et slikt tilbud.
 
-Det er allerede et stort press på 
+Innrapportering til skattemyndighetene har en fordel utover at man får lov til å betale skatt - man får frihet til å benytte seg av formuen.  Det er svært begrenset hva et ellers lovlydig menneske kan benytte en skjult bitcoinformue til i Norge.  Vedkomne som fortalte meg at hun ville unngå å havne på formuetopp i offentlige skattelister har også et ønske om å betale ned huslånet, slutte i jobben og følge sine egne drømmer - man kan ikke uten videre bruke en skjult formue på slikt.
