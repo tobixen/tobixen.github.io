@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # Leilighet til utleie
 
 Leiligheten ligger i et rolig nabolag på Grorud.  Det er privat vei med gjennomkjøring forbudt og fartshumper, så det er lite trafikk og lite støy.  Vi er en familie på seks som eier huset, hvorav fire er er bortreist for ett skoleår (med mulig kortere hjemturer til påskeferie el).  De-facto er det halvannen fastboende i huset, det er en rolig 17-åring og en pappa (meg) som er mye bortreist.  Jeg blir bortreist til ca midten av september nå.  Eksakt utflytningsdato kan forhandles til neste år, vi er rimelig fleksible, men det er sannsynlig at vi ønsker å ta hele huset i bruk ila sommerferien.
+=======
+Leiligheten ligger i et rolig nabolag på Grorud.  Det er privat vei med gjennomkjøring forbudt og fartshumper, så det er lite trafikk og lite støy.  Vi er en familie på seks som eier huset, hvorav fire er er bortreist for ett skoleår (med mulig kortere hjemturer til påskeferie el).  De-facto er det halvannen fastboende i huset, det er en rolig 17-åring og en pappa (meg) som er mye bortreist.  Jeg blir bortreist til ca midten av september nå.  Eksakt utflytningsdato kan forhandles til neste år, vi er rimelig fleksible, men det er sannsynlig at vi ønsker å ta hele huset i bruk ila sommerferien 2022.
+>>>>>>> 034c5d5 (litt mer detaljer)
 
 ![bilvei](https://ipfs.io/ipfs/QmS3qF1fWJGXpyRypz7o1a2HxZSBf8M26w4goEyir36Fo9)
 *[fullsize](https://ipfs.io/ipfs/QmdzFopf6zBXoKaToQsFedqPf9U9oFcXvr1866JB2xbooN)*
@@ -120,10 +124,10 @@ Det var forrige leietager som installerte oppvaskmaskinen, og vannlekkasjen ble 
 ![some photo](https://ipfs.io/ipfs/QmTjAhUC7Sag66sWzcX6PZj1LULWDSayWHzjBdpeEbbmgx)
 *[fullsize](https://ipfs.io/ipfs/QmYvtzhkry2eFpDYteuZ6UuGzCivX5ioSyaZdvrKMuJS4m)*
 
-Flekk på gulv ... usikker på om det er mulig å skrubbe den vekk, eller om det må løses med sandpapir eventuelt.
-
 ![some photo](https://ipfs.io/ipfs/QmZQLwLPV27ZtCims9mjEcKFqiNQR8xhe54a1TCKQwpcwM)
 *[fullsize](https://ipfs.io/ipfs/QmVQUb9oPGma6C6xUZhpkPWVGKicMjNJ2igw6Qvmiweeku)*
+
+Flekk på gulv ... usikker på om det er mulig å skrubbe den vekk, eller om det må løses med sandpapir eventuelt.
 
 ![some photo](https://ipfs.io/ipfs/QmZCEJA8FZfzGHpR9GBWobMYzvbyaxhdzGjBC14Dtvd28q)
 *[fullsize](https://ipfs.io/ipfs/QmYgQ9Ubc42QrbD8VXcwhjVAaKYHuuFPbUataYyZxNmGRh)*
@@ -134,10 +138,12 @@ Flekk på gulv ... usikker på om det er mulig å skrubbe den vekk, eller om det
 ![some photo](https://ipfs.io/ipfs/QmVwoZJcAbuzuLJ4eKgTuZUqz6GQiS5cREuwvC8k3hXMfY)
 *[fullsize](https://ipfs.io/ipfs/QmQjbAw1KUHVuMgZSC2qUbmze89XM4X8BuwdVcoa2JYb3U)*
 
-Toalettet er i ustand (sisterna holder ikke vann, det renner rett igjennom - kan selvfølgelig skylles med en bøtte inntil videre).  Reservedel (pakning for å sperre for at vannet renner rett ned i doen) bestilt for tre uker siden - forventet å komme på fredag eller mandag.  Dersom dette ikke blir fikset før innflytting, så må kostnader for å bytte ut hele doen gjerne trekkes fra husleie og/eller depositum.
+Toalettet er i ustand (sisterna holder ikke vann, det renner rett igjennom - kan selvfølgelig skylles med en bøtte inntil videre).  Reservedel (pakning for å sperre for at vannet renner rett ned i doen) bestilt for tre uker siden - forventet å komme på fredag eller mandag.  Dersom dette ikke blir fikset før innflytting, så bytter vi ut hele doen.  Da vil jeg enten refundere kostnader (inkludert godtgjørelse for egen arbeidsinnsats), eller finne noen på finn som kan ta oppdraget.
 
 ![some photo](https://ipfs.io/ipfs/QmVrLoEhRCVikaDNiQrZXakTHFrwrmgKqoubNhiwkD8xd8)
 *[fullsize](https://ipfs.io/ipfs/Qmbzi8Ayc41hvqgtMmFM9jZWzTbfmHBs8L28oxhKsEwCiu)*
+
+Vaskemaskin mangler.  Finn noe relativt rimelig (gjerne en brukt maskin på finn), så dekker jeg kostnad for vaskemaskin og transport.
 
 ![some photo](https://ipfs.io/ipfs/QmX21KxgZCaspkkZb4PRJBdQQDgkfGZXmEz4KdxErbHJvu)
 *[fullsize](https://ipfs.io/ipfs/QmczMFpgyN257dyHrpn3V5cCEbjDvZ7Pj8d4hoyAv9i1GE)*
