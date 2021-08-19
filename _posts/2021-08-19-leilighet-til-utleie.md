@@ -82,7 +82,7 @@ Døra går til et lager - det er fullt av våre ting, og må nok dessverre bli s
 ![some photo](https://ipfs.io/ipfs/QmTzcaM2ciETR19JsrgDpT8oiMuVNpuQSphhqDx4fP39pW)
 *[fullsize](https://ipfs.io/ipfs/QmeXayeyE6JDY4KdqZPN2rCt6kTFFbZutVGdcDBc7xTTc8)*
 
-Jeg gikk tom for ved og fikk et lass av disse "vedbrikkettene" billig rett før fyringssesongen var over i vinter - så vi har flere på balkongen vår, er bare å hente til det blir tomt.
+Jeg gikk tom for ved og fikk et lass av disse "vedbrikkettene" billig rett før fyringssesongen var over i vinter - så vi har flere på balkongen vår, er bare å hente til det blir tomt.  (Vi har selvfølgelig også panelovner).
 
 ![some photo](https://ipfs.io/ipfs/QmZP4SjFfbWwEQJpQyoCs8aKFMapqC9bsLvM91Eid6ipfr)
 *[fullsize](https://ipfs.io/ipfs/QmWN8gjRdXnKM6AoVoEHaCbeGN2dod9xqSitgrM6DAQRdt)*
