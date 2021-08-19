@@ -1,6 +1,6 @@
 # Leilighet til utleie
 
-Leiligheten ligger i et rolig nabolag på Grorud.  Det er privat vei med gjennomkjøring forbudt og fartshumper, så det er lite trafikk og lite støy.  Vi er en familie på seks som eier huset, hvorav fire er er bortreist (med mulig kortere hjemturer til påskeferie el).  De facto bor det en rolig 17-åring i huset, samt en pappa (meg) som er mye bortreist.  Jeg blir bortreist til ca midten av september nå.  Eksakt utflytningsdato kan forhandles til neste år, vi er rimelig fleksible.
+Leiligheten ligger i et rolig nabolag på Grorud.  Det er privat vei med gjennomkjøring forbudt og fartshumper, så det er lite trafikk og lite støy.  Vi er en familie på seks som eier huset, hvorav fire er er bortreist for ett skoleår (med mulig kortere hjemturer til påskeferie el).  De-facto er det halvannen fastboende i huset, det er en rolig 17-åring og en pappa (meg) som er mye bortreist.  Jeg blir bortreist til ca midten av september nå.  Eksakt utflytningsdato kan forhandles til neste år, vi er rimelig fleksible, men det er sannsynlig at vi ønsker å ta hele huset i bruk ila sommerferien.
 
 ![bilvei](https://ipfs.io/ipfs/QmS3qF1fWJGXpyRypz7o1a2HxZSBf8M26w4goEyir36Fo9)
 *[fullsize](https://ipfs.io/ipfs/QmdzFopf6zBXoKaToQsFedqPf9U9oFcXvr1866JB2xbooN)*
@@ -28,7 +28,6 @@ Huset har én parkeringsplass rett utenfor inngang til kjellerleilighet, i tille
 *[fullsize](https://ipfs.io/ipfs/QmYcNqiFUfChHmhMEUJkgEvb3GnFnw4rynHRW1vGvj4KRc)*
 
 Inngangsdøra har ikke vært i bruk på en stund - 17-åringen har bodd nede, og brukt kjøkken og inngang oppe.  I tillegg har arealene vært brukt til lagring.
-
 
 ![some photo](https://ipfs.io/ipfs/QmWksB2yMZpPD5NKpJGGFZsPZSuhggMenSZe1TcyPCBkB6)
 *[fullsize](https://ipfs.io/ipfs/QmdVSXSvbCDmLkH43yoBaCRFivm6AcYeDCUKC1CMDDzCj1)*
@@ -135,7 +134,7 @@ Flekk på gulv ... usikker på om det er mulig å skrubbe den vekk, eller om det
 ![some photo](https://ipfs.io/ipfs/QmVwoZJcAbuzuLJ4eKgTuZUqz6GQiS5cREuwvC8k3hXMfY)
 *[fullsize](https://ipfs.io/ipfs/QmQjbAw1KUHVuMgZSC2qUbmze89XM4X8BuwdVcoa2JYb3U)*
 
-Toalettet er i ustand (sisterna holder ikke vann, det renner rett igjennom).  Reservedel (pakning for å sperre for at vannet renner rett ned i doen) bestilt for tre uker siden - forventet å komme på fredag eller mandag.  Dersom dette ikke blir fikset før innflytting, så må kostnader for å bytte ut hele doen gjerne trekkes fra husleie og/eller depositum.
+Toalettet er i ustand (sisterna holder ikke vann, det renner rett igjennom - kan selvfølgelig skylles med en bøtte inntil videre).  Reservedel (pakning for å sperre for at vannet renner rett ned i doen) bestilt for tre uker siden - forventet å komme på fredag eller mandag.  Dersom dette ikke blir fikset før innflytting, så må kostnader for å bytte ut hele doen gjerne trekkes fra husleie og/eller depositum.
 
 ![some photo](https://ipfs.io/ipfs/QmVrLoEhRCVikaDNiQrZXakTHFrwrmgKqoubNhiwkD8xd8)
 *[fullsize](https://ipfs.io/ipfs/Qmbzi8Ayc41hvqgtMmFM9jZWzTbfmHBs8L28oxhKsEwCiu)*
