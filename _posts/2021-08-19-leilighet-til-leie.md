@@ -1,5 +1,3 @@
-# Leilighet til utleie
-
 Vi leier ut kjellerleiligheta pga langvarig fravær.
 
 Vi er en familie på seks som eier huset, hvorav fire er er bortreist for ett skoleår (med mulig kortere hjemturer til påskeferie el).  De-facto er det halvannen fastboende i huset, det er en rolig 17-åring og en pappa (meg) som er mye bortreist.  Jeg blir bortreist til ca midten av september nå.  Eksakt utflytningsdato kan forhandles til neste år, vi er rimelig fleksible, men det er sannsynlig at vi ønsker å ta hele huset i bruk ila sommerferien 2022.
