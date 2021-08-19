@@ -1,3 +1,8 @@
+---
+layout: post
+title: Kjellerleilighet på Grorud leies ut
+---
+
 Vi leier ut kjellerleiligheta pga langvarig fravær.
 
 Vi er en familie på seks som eier huset, hvorav fire er er bortreist for ett skoleår (med mulig kortere hjemturer til påskeferie el).  De-facto er det halvannen fastboende i huset, det er en rolig 17-åring og en pappa (meg) som er mye bortreist.  Jeg blir bortreist til ca midten av september nå.  Eksakt utflytningsdato kan forhandles til neste år, vi er rimelig fleksible, men det er sannsynlig at vi ønsker å ta hele huset i bruk ila sommerferien 2022.
@@ -58,15 +63,19 @@ Soverommet har kablet internett - som ikke virker.  Det er kontakten på vår si
 ![some photo](https://ipfs.io/ipfs/QmaQY6dKC4kiAfrDQbDcgdYb8jkPURbbMZFjBcvjaSiaFx)
 *[fullsize](https://ipfs.io/ipfs/QmdAUn8LQ7x23myRSDvNNYqsqq55Ka1eQgyneNk8LUbxYz)*
 
-Sofa kan evt kastes/selges.  Noe fleksibilitet ellers, vi kan ta med noe møbler opp eller godkjenne at noe blir kastet/solgt.
+Sofa er noe skitten i trekket, men det er en god sofa, utslagbar til dobbeltseng.
 
 ![some photo](https://ipfs.io/ipfs/QmcKuyQEzuPsy7LRxiVMLv3dA6TYdjxR76o6FPPP3aAYET)
 *[fullsize](https://ipfs.io/ipfs/Qmb8y1ArqRyPgDKF9jCnJUz3wbuCCYCjLPdw7xHLvaybRU)*
 
+Selv om det er en kjellerleilighet, er det utsikt mot øst.
+
 ![some photo](https://ipfs.io/ipfs/QmZF9xFkanDjbyNR29SC7ia1N9oo8z6tnobCdtey8nyULu)
 *[fullsize](https://ipfs.io/ipfs/QmVH1m3caEtD2XEvsBnfFXxapSHJbzyoiz8kiNjVG8F67c)*
 
-Vi rekker ikke å tømme alt av bokhyller.  Bøkene må stå, eventuelt kan leietager pakke ned i bokser som vi putter et annet sted i huset.
+Datamaskin med arbeidspult vil bli fjernet.
+
+Vi rekker ikke å tømme alt av bokhyller.  Bøkene må stå, eventuelt kan leietager pakke ned i bokser som vi putter et annet sted i huset.  (det meste av annet rot skal vi få ryddet ut).
 
 Døra går til et lager - det er fullt av våre ting, og må nok dessverre bli stående slik ut leieperioden.
 
