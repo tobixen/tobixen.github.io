@@ -95,7 +95,7 @@ Kablet internett på stua, men vegguttaket er ikke skrudd fast til vegg.  Simpel
 ![some photo](https://ipfs.io/ipfs/QmZEpXKAFixy4tE9gq51D5M92YfPbdsaRSoDGpKkYYXq5v)
 *[fullsize](https://ipfs.io/ipfs/QmNRuD1uoMYu3bcq4qGDvo9utUcqaKrjezFX4eZc1A8hKf)*
 
-Tenåringen vil ha TV'en med seg opp hvis jeg har forstått det riktig, men det er ikke plass til den noe sted - så mulig den blir her nede.  Whiteboard skal opp.
+Whiteboard vil bli flyttet.  TV'en blir stående, men fjernkontrollen har forsvunnet.
 
 ![some photo](https://ipfs.io/ipfs/QmT5JUyo4RVn5qpPp5LBxmzLP9FAoJUddfsCQ4J8H17CUG)
 *[fullsize](https://ipfs.io/ipfs/QmQfugdDWbXbzQ8B7G4BbHdWJUEfFxP9K2wzoCT7ftKYpv)*
@@ -107,6 +107,8 @@ Tenåringen vil ha TV'en med seg opp hvis jeg har forstått det riktig, men det 
 *[fullsize](https://ipfs.io/ipfs/QmYV1kTmz3GsbJt6iddWuQJczBLP93RtyQXCbnH9GEYyxn)*
 
 Kjøkkenet har oppvaskmaskin, men det er en vannlekkasje på ferskvannstilkoblingen.  Leieboer kan fikse og trekke kostnader fra husleie, eller jeg kan se på det en gang til september.  Døra her går til trappeoppgang opp til resten av huset.  Fruen mener den bør være låst, jeg mener at den enten bør være åpen, eller med nøkkel lett tilgjengelig, slik at den kan fungere som nødutgang for leieboer i tilfelle brann i inngangspartiet, samt at vi får tilgang til hovedstoppekran i tilfelle vannlekkasje.
+
+Stort kombikjøleskap/fryser, men vi har mistanke om at temperaturen der er ujevn, det bør følges opp.  Vi tar kostnaden med å bytte ut dersom det er nødvendig.
 
 ![some photo](https://ipfs.io/ipfs/Qma2daWrh7x1w8DmEyEdedgQcCV3honWG1yqUuGyTS593w)
 *[fullsize](https://ipfs.io/ipfs/QmSRJnnPZinYGMEzvvFpBHR4Vbu5qTNJEKWXVfHdSLVhWX)*
