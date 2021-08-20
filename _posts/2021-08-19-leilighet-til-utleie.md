@@ -55,7 +55,7 @@ Soverommet har to vindu, vendt mot inngang til huset.  Lite utsikt, men også li
 ![some photo](https://ipfs.io/ipfs/QmZ3xUhY6BJCgbfo7gG1wWELfn3RKZRXQeS6AvFARaP3fH)
 *[fullsize](https://ipfs.io/ipfs/QmeyVdnWFqbdmJ3cZBtizVHdaDeqDrksVr2mBhggddHqSk)*
 
-Soverommet har kablet internett - som ikke virker.  Det er kontakten på vår side som er defekt, relativt simpel jobb å fikse, men jeg rekker ikke over det før til midten av september.
+Soverommet har kablet internett - som ikke virker.  Det er kontakten på vår side som er defekt, relativt simpel jobb å fikse, men jeg rekker ikke over det før til midten av september.  Muligens noe dårlig wifi-dekning på soverommet her (kan løses med å sette inn en egen trådløsruter i kjelleren).
 
 ![some photo](https://ipfs.io/ipfs/QmWPNv4WFVc2F5Sb65oraexyhCJqWZBAVxHKRoV1Y49vma)
 *[fullsize](https://ipfs.io/ipfs/QmVT5MQPcnCE3kruuhmuYd81Fm6HjK4gcYqLiRVg8fVHSJ)*
@@ -87,7 +87,7 @@ Jeg gikk tom for ved og fikk et lass av disse "vedbrikkettene" billig rett før 
 ![some photo](https://ipfs.io/ipfs/QmZP4SjFfbWwEQJpQyoCs8aKFMapqC9bsLvM91Eid6ipfr)
 *[fullsize](https://ipfs.io/ipfs/QmWN8gjRdXnKM6AoVoEHaCbeGN2dod9xqSitgrM6DAQRdt)*
 
-Kablet internett på stua, men vegguttaket er ikke skrudd fast til vegg.  Simpel jobb, men rekker ikke over det selv før til midten av september.
+Kablet internett på stua, men vegguttaket er ikke skrudd fast til vegg.  Simpel jobb, men rekker ikke over det selv før til midten av september.  (det er også wifi).
 
 ![some photo](https://ipfs.io/ipfs/QmPJkVZZbqn8eU7Z68LmmqguUiZhqPuAchMaFGYb3SNUx2)
 *[fullsize](https://ipfs.io/ipfs/QmfEXoFxcj9ZsdRE4t82FE1atyG71yv29SLHCcviEDusEF)*
@@ -95,7 +95,7 @@ Kablet internett på stua, men vegguttaket er ikke skrudd fast til vegg.  Simpel
 ![some photo](https://ipfs.io/ipfs/QmZEpXKAFixy4tE9gq51D5M92YfPbdsaRSoDGpKkYYXq5v)
 *[fullsize](https://ipfs.io/ipfs/QmNRuD1uoMYu3bcq4qGDvo9utUcqaKrjezFX4eZc1A8hKf)*
 
-Whiteboard vil bli flyttet.  TV'en blir stående, men fjernkontrollen har forsvunnet.
+Whiteboard vil bli flyttet.  TV'en blir stående, men fjernkontrollen har forsvunnet (den kan brukes uten fjernkontroll).  Playstation vil bli fjernet.
 
 ![some photo](https://ipfs.io/ipfs/QmT5JUyo4RVn5qpPp5LBxmzLP9FAoJUddfsCQ4J8H17CUG)
 *[fullsize](https://ipfs.io/ipfs/QmQfugdDWbXbzQ8B7G4BbHdWJUEfFxP9K2wzoCT7ftKYpv)*
@@ -146,8 +146,6 @@ Flekk på gulv ... usikker på om det er mulig å skrubbe den vekk, eller om det
 
 ![some photo](https://ipfs.io/ipfs/QmVwoZJcAbuzuLJ4eKgTuZUqz6GQiS5cREuwvC8k3hXMfY)
 *[fullsize](https://ipfs.io/ipfs/QmQjbAw1KUHVuMgZSC2qUbmze89XM4X8BuwdVcoa2JYb3U)*
-
-Toalettet er i ustand (sisterna holder ikke vann, det renner rett igjennom - kan selvfølgelig skylles med en bøtte inntil videre).  Reservedel (pakning for å sperre for at vannet renner rett ned i doen) bestilt for tre uker siden - forventet å komme på fredag eller mandag.  Dersom dette ikke blir fikset før innflytting, så bytter vi ut hele doen.  Da vil jeg enten refundere kostnader (inkludert godtgjørelse for egen arbeidsinnsats), eller finne noen på finn som kan ta oppdraget.
 
 ![some photo](https://ipfs.io/ipfs/QmVrLoEhRCVikaDNiQrZXakTHFrwrmgKqoubNhiwkD8xd8)
 *[fullsize](https://ipfs.io/ipfs/Qmbzi8Ayc41hvqgtMmFM9jZWzTbfmHBs8L28oxhKsEwCiu)*
