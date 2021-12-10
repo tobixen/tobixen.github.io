@@ -16,4 +16,3 @@ Et annet svar er å skjerme Nord Pool fra å måtte forholde seg til sluttkunder
 Et tredje svar er at det faktisk er et behov i markedet for andre prismodeller enn spottpris, kunder som ønsker å ha forutsigbare strømpriser uavhengig av markedsfluktasjoner, kunder som ikke ønsker å måtte forholde seg til "denne timens strømpris", etc.  Jeg liker ikke slike tjenester (dét er noe jeg kanskje kommer til å drodle over i en annen post), men registrerer at det finnes et behov for tjenesten.
 
 Det tredje svaret er så vidt jeg kan se den eneste legitime begrunnelsen for å ha dagens modell med "fri konkurranse" av strømfakturaleverandører.  Jeg skulle ønske jeg kunne betalt spottpris direkte inn til Nord Pool eller til nettselskap.  Jeg bytter nå til Motkraft, som lover å operere etter "non-profit"-prinsipp, men det er fortsatt et fordyrende, unødvendig mellomledd slik jeg ser det.
-
